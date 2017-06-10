@@ -26,7 +26,7 @@ MSE = MSE/1000
 plot(900:N,xV(900:N),'-')
 hold on;
 plot(900:N,rxV(900:N),'b--')
-
+ 
 % Example:
 %{
 n=3;      %number of state
