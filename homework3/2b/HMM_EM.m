@@ -38,9 +38,6 @@ for i = 1:max_iter
         [alpha,scale_alpha] = compForwardProb(O,A,B,P);
         [beta] = compBackwardProb(O,A,B,scale_alpha);
 
-        % compute posterior probabilities (E-step)
-        [gamma] = compGamma(alpha,beta);
-
         % compute averaged joint posterior (q_i,q_j|O)
         ksi = zeros(N);
         for t = 1:T-1
