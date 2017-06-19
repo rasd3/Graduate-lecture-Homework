@@ -2,7 +2,8 @@
 
 ## Homework3
 
-2. (a) Make forward & backward algorithm for HMM(Hidden Markov Model)
+2. (a) Make forward & backward algorithm for HMM(Hidden Markov Model) </br>
+ (b) Make Baum-Welch algorithm from HMM
 
 
 ## Homework4
