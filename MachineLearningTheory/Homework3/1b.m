@@ -1,3 +1,4 @@
+
 % Find the PCA projection vector w and calculate the discriminant for all training examples in
 % MATLAB (refer to Chapter 12.1 in PRML book). Plot the histogram of the discriminant.
 
