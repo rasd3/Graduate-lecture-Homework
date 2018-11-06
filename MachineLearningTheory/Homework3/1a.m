@@ -1,3 +1,6 @@
+% Take only the first 100 examples to perform the binary classifcation "setosa vs versicolor" as
+% Find the LDA projection vector w and calculate the discriminant for all training examples in
+% MATLAB. Plot the histogram of the discriminant using the following code
 
 %% data load
 
